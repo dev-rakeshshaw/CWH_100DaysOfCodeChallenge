@@ -1,6 +1,6 @@
 # CodeWithHarry_100DaysOfCodeChallenge!
 
-![badge](https://img.shields.io/badge/%20Python%20for%20Beginners%20(Full%20Course)-%23100DaysOfCodeChallenge!%20-brightgreen)
+![badge](https://img.shields.io/badge/Course-%20Python%20for%20Beginners%20(Full%20Course)%20%7C%20%23100DaysOfCodeChallenge!-important)
 ![badge](https://img.shields.io/badge/Mentor-CodeWithHarry-blueviolet)
 ![badge](https://img.shields.io/badge/Platform-YouTube-red)
 

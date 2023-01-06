@@ -1,5 +1,6 @@
 # CodeWithHarry_100DaysOfCodeChallenge!
 
+[badge](https://img.shields.io/badge/%20Python%20for%20Beginners%20(Full%20Course)-%23100DaysOfCodeChallenge!%20-brightgreen "CodeWithHarry")
 
 This repo contains all the code files of [Python for Beginners (Full Course) | #100DaysOfCodeChallenge!](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) which is created by [CodeWithHarry](https://www.youtube.com/@CodeWithHarry "CodeWithHarry") YouTube Channel.
 
